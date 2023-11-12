@@ -32,7 +32,7 @@ public class Question_3 {
 				}
 			}
 			if(count==1) {
-				list.add(k, key);
+				list.add(k, arr[i]);
 				k++;
 			}
 			
